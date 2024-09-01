@@ -103,3 +103,6 @@
 [submodule "components/LiveSplit.TotalGold"]
 	path = components/LiveSplit.TotalGold
 	url = git@github.com:idlechild/LiveSplit.TotalGold.git
+[submodule "components/LiveSplit.USB2SNESSplitter"]
+	path = components/LiveSplit.USB2SNESSplitter
+	url = git@github.com:idlechild/LiveSplit.USB2SNESSplitter.git

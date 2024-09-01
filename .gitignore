@@ -10,6 +10,9 @@ bin/
 obj/
 publish/
 
+# Locally-installed packages
+packages/
+
 # User-specific files
 *.user
 

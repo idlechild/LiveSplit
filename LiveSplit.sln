@@ -124,6 +124,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveSplit.ComparisonTime", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSplit.TotalGold", "components\LiveSplit.TotalGold\LiveSplit.TotalGold\LiveSplit.TotalGold.csproj", "{0EFC7D90-E3EB-40AF-8526-8FA2E5D6E84A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSplit.USB2SNESSplitter", "components\LiveSplit.USB2SNESSplitter\LiveSplit.USB2SNESSplitter.csproj", "{213769A9-C192-4169-AF51-9547C0C22A14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -274,6 +276,10 @@ Global
 		{0EFC7D90-E3EB-40AF-8526-8FA2E5D6E84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EFC7D90-E3EB-40AF-8526-8FA2E5D6E84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EFC7D90-E3EB-40AF-8526-8FA2E5D6E84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213769A9-C192-4169-AF51-9547C0C22A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213769A9-C192-4169-AF51-9547C0C22A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213769A9-C192-4169-AF51-9547C0C22A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213769A9-C192-4169-AF51-9547C0C22A14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -321,6 +327,7 @@ Global
 		{0D77A457-99DE-41D8-89E6-1EA293FB2AFB} = {4850A037-C05C-4A26-A0B0-0E109663C7A8}
 		{13E9FE68-5CCD-4B61-B22F-87846111A2A5} = {3A3C7035-1C1F-462D-B388-291BEF33000D}
 		{0EFC7D90-E3EB-40AF-8526-8FA2E5D6E84A} = {3A3C7035-1C1F-462D-B388-291BEF33000D}
+		{213769A9-C192-4169-AF51-9547C0C22A14} = {47D5421A-6A7E-4876-9141-8C513ED145DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90E82F15-0455-4F4C-B6A9-831CD4F533C3}
