@@ -24,15 +24,15 @@
 	branch = master
 [submodule "LiveSplit/Components/LiveSplit.PossibleTimeSave"]
 	path = components/LiveSplit.PossibleTimeSave
-	url = https://github.com/LiveSplit/LiveSplit.PossibleTimeSave.git
+	url = git@github.com:idlechild/LiveSplit.PossibleTimeSave.git
 	branch = master
 [submodule "LiveSplit/Components/LiveSplit.PreviousSegment"]
 	path = components/LiveSplit.PreviousSegment
-	url = https://github.com/LiveSplit/LiveSplit.PreviousSegment.git
+	url = git@github.com:idlechild/LiveSplit.PreviousSegment.git
 	branch = master
 [submodule "LiveSplit/Components/LiveSplit.RunPrediction"]
 	path = components/LiveSplit.RunPrediction
-	url = https://github.com/LiveSplit/LiveSplit.RunPrediction.git
+	url = git@github.com:idlechild/LiveSplit.RunPrediction.git
 	branch = master
 [submodule "LiveSplit/Components/LiveSplit.ScriptableAutoSplit"]
 	path = components/LiveSplit.ScriptableAutoSplit
@@ -56,11 +56,11 @@
 	branch = master
 [submodule "LiveSplit/Components/LiveSplit.Timer"]
 	path = components/LiveSplit.Timer
-	url = https://github.com/LiveSplit/LiveSplit.Timer.git
+	url = git@github.com:idlechild/LiveSplit.Timer.git
 	branch = master
 [submodule "LiveSplit/Components/LiveSplit.Title"]
 	path = components/LiveSplit.Title
-	url = https://github.com/LiveSplit/LiveSplit.Title.git
+	url = git@github.com:idlechild/LiveSplit.Title.git
 	branch = master
 [submodule "LiveSplit/Components/LiveSplit.Video"]
 	path = components/LiveSplit.Video
@@ -68,7 +68,7 @@
 	branch = master
 [submodule "LiveSplit/Components/LiveSplit.Subsplits"]
 	path = components/LiveSplit.Subsplits
-	url = https://github.com/LiveSplit/LiveSplit.Subsplits
+	url = git@github.com:idlechild/LiveSplit.Subsplits
 [submodule "LiveSplit/Components/LiveSplit.WorldRecord"]
 	path = components/LiveSplit.WorldRecord
 	url = https://github.com/LiveSplit/LiveSplit.WorldRecord.git
