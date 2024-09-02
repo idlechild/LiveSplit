@@ -192,7 +192,7 @@ namespace UpdateManager
 
         public static bool CheckForAnyUpdate(IEnumerable<IUpdateable> updateables)
         {
-            return updateables.Any(x => x.CheckForUpdate());
+            return false;
         }
 
         #endregion
