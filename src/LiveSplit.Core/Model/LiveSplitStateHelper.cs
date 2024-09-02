@@ -123,8 +123,7 @@ namespace LiveSplit.Model
                 var bestSegmentDelta = GetLiveSegmentDelta(state, state.CurrentSplitIndex, BestSegmentsComparisonGenerator.ComparisonName, method);
                 var comparisonDelta = GetLiveSegmentDelta(state, state.CurrentSplitIndex, comparison, method);
 
-                if (splitDelta && currentTime > curSplit
-                    || useBestSegment && bestSegment != null && curSegment > bestSegment && bestSegmentDelta > TimeSpan.Zero
+                if (useBestSegment && bestSegment != null && curSegment > bestSegment && bestSegmentDelta > TimeSpan.Zero
                     || comparisonDelta > TimeSpan.Zero)
                 {
                     if (splitDelta)
